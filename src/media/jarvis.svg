@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <!-- Dark Background -->
+  <rect width="400" height="300" fill="#1a1a1a"/>
+  
+  <!-- AI Brain Network -->
+  <circle cx="200" cy="150" r="80" fill="none" stroke="#6b46c1" stroke-width="2" opacity="0.3"/>
+  <circle cx="200" cy="150" r="60" fill="none" stroke="#9333ea" stroke-width="2" opacity="0.5"/>
+  <circle cx="200" cy="150" r="40" fill="none" stroke="#a855f7" stroke-width="2" opacity="0.7"/>
+  
+  <!-- Neural Network Nodes -->
+  <g fill="#ec4899">
+    <circle cx="160" cy="110" r="5"/>
+    <circle cx="240" cy="110" r="5"/>
+    <circle cx="200" cy="180" r="5"/>
+    <circle cx="140" cy="150" r="5"/>
+    <circle cx="260" cy="150" r="5"/>
+    <circle cx="180" cy="200" r="5"/>
+    <circle cx="220" cy="200" r="5"/>
+  </g>
+  
+  <!-- Connection Lines -->
+  <g stroke="#6b46c1" stroke-width="1" opacity="0.5">
+    <line x1="160" y1="110" x2="200" y2="180"/>
+    <line x1="240" y1="110" x2="200" y2="180"/>
+    <line x1="140" y1="150" x2="200" y2="180"/>
+    <line x1="260" y1="150" x2="200" y2="180"/>
+    <line x1="180" y1="200" x2="200" y2="180"/>
+    <line x1="220" y1="200" x2="200" y2="180"/>
+  </g>
+  
+  <!-- Animate Pulse -->
+  <circle cx="200" cy="150" r="20" fill="none" stroke="#ec4899" stroke-width="2">
+    <animate attributeName="r" values="20;80;20" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.8;0;0.8" dur="3s" repeatCount="indefinite"/>
+  </circle>
+</svg>

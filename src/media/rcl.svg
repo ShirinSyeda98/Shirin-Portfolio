@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <!-- Dark Background -->
+  <rect width="400" height="300" fill="#1a1a1a"/>
+  
+  <!-- Component Grid -->
+  <g opacity="0.8">
+    <!-- Row 1 -->
+    <rect x="80" y="60" width="80" height="50" rx="4" fill="#6b46c1" opacity="0.7"/>
+    <rect x="170" y="60" width="80" height="50" rx="4" fill="#9333ea" opacity="0.7"/>
+    <rect x="260" y="60" width="80" height="50" rx="4" fill="#a855f7" opacity="0.7"/>
+    
+    <!-- Row 2 -->
+    <rect x="80" y="120" width="80" height="50" rx="4" fill="#ec4899" opacity="0.7"/>
+    <rect x="170" y="120" width="80" height="50" rx="4" fill="#6b46c1" opacity="0.7"/>
+    <rect x="260" y="120" width="80" height="50" rx="4" fill="#9333ea" opacity="0.7"/>
+    
+    <!-- Row 3 -->
+    <rect x="80" y="180" width="80" height="50" rx="4" fill="#a855f7" opacity="0.7"/>
+    <rect x="170" y="180" width="80" height="50" rx="4" fill="#ec4899" opacity="0.7"/>
+    <rect x="260" y="180" width="80" height="50" rx="4" fill="#6b46c1" opacity="0.7"/>
+  </g>
+  
+  <!-- Connecting Lines -->
+  <g stroke="#ec4899" stroke-width="1" opacity="0.3">
+    <line x1="160" y1="85" x2="170" y2="85"/>
+    <line x1="250" y1="85" x2="260" y2="85"/>
+    <line x1="160" y1="145" x2="170" y2="145"/>
+    <line x1="250" y1="145" x2="260" y2="145"/>
+    <line x1="160" y1="205" x2="170" y2="205"/>
+    <line x1="250" y1="205" x2="260" y2="205"/>
+    
+    <line x1="120" y1="110" x2="120" y2="120"/>
+    <line x1="210" y1="110" x2="210" y2="120"/>
+    <line x1="300" y1="110" x2="300" y2="120"/>
+    <line x1="120" y1="170" x2="120" y2="180"/>
+    <line x1="210" y1="170" x2="210" y2="180"/>
+    <line x1="300" y1="170" x2="300" y2="180"/>
+  </g>
+</svg>
