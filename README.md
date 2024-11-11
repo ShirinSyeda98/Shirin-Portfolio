@@ -183,7 +183,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 Shirin R. Syeda
 - LinkedIn: [Shirin Syeda](https://www.linkedin.com/in/shirinsyeda/)
-- Email: shirinsyeda98.official@gmail.com
+- Email: shirinsyeda98.work@gmail.com
 
 ## 🙏 Acknowledgments
 
