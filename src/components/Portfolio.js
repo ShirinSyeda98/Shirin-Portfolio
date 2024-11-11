@@ -472,7 +472,7 @@ const Portfolio = () => {
                         </a>
                       </h3>
                       <p className="text-lg text-pink-400">Master of Science</p>
-                      <p className="text-gray-300">Computer Science</p>
+                      <p className="text-gray-500">Computer Science</p>
                       <p className="text-gray-500">Aug'23 - May'25</p>
                     </div>
                   </div>
@@ -494,7 +494,7 @@ const Portfolio = () => {
                       <p className="text-lg text-pink-400">
                         Bachelor of Engineering
                       </p>
-                      <p className="text-gray-300">
+                      <p className="text-gray-500">
                         Computer Science and Engineering
                       </p>
                       <p className="text-gray-500">Aug'17 - Jun'20</p>
