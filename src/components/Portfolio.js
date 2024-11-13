@@ -670,7 +670,7 @@ const Portfolio = () => {
                   <div>
                     <h3 className="font-bold text-lg">Linkedin</h3>
                     <a
-                      href="https://www.SiLinkedin.com/in/shirinsyeda/"
+                      href="https://www.linkedin.com/in/shirinsyeda/"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="text-purple-400 hover:text-purple-300"
