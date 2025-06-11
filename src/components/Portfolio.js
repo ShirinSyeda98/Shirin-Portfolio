@@ -89,7 +89,7 @@ const Portfolio = () => {
     {
       id: 1,
       company: "byTokn",
-      role: "Lead Senior Full Stack Software Engineer Intern",
+      role: "Lead Full Stack Software Engineer Intern",
       period: " December 2024 - Present",
       highlights: [
         "Built comprehensive platform with integrated payment gateway system accepting multiple payment methods including traditional credit cards, cryptocurrencies (Bitcoin), and blockchain-based assets (NFTs) using JavaScript, React, and Python",
